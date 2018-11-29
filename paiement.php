@@ -7,7 +7,7 @@
  */
 
 
-require '../php-sdk/PayExpresse.php';
+require 'PayExpresse.php';
 require_once 'conf.php';
 
 $id = !empty($_POST['item_id']) ? intval($_POST['item_id']) : null;
