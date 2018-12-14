@@ -40,6 +40,7 @@ else{
         'lang' => $_SERVER['HTTP_ACCEPT_LANGUAGE']
     ])
         ->setTestMode(true)
+        ->setnoCalculateFee(0)// default 0 
         ->setCurrency($item->currency)
         ->setRefCommand(uniqid())
         ->setNotificationUrl([
