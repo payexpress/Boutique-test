@@ -1,5 +1,5 @@
 <?php
 
 const BASE_URL = 'https://sample.payexpresse.com';
-$apiKey = '1afac858d4fa5ec74e3e3734c3829793eb6bd5f4602c84ac4a5069369812915e';
-$apiSecret = '96bc36c11560f2151c4b43eee310cefabc2e9e9000f7e315c3ca3d279e3f98ac';
+$apiKey = '0a58c37e1b2bdc64462637d2dd8a1a3ca4c312884a5d89a6031d41853e1561d6';
+$apiSecret = '98dc76a3c2c4744cbca69f107ed21986641b6160ec5e562a6dfd7c5736f777bb';
